@@ -2,7 +2,7 @@
   "workspace": {},
   "studio-open-web": {},
   "BowlerStudioConfigs": {
-    "fontsize": 20,
+    "fontsize": 24,
     "skinBranch": "0.25.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
